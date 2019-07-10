@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/white-case.iml" filepath="$PROJECT_DIR$/white-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/white-case_main.iml" filepath="$PROJECT_DIR$/.idea/modules/white-case_main.iml" group="white-case" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/white-case_test.iml" filepath="$PROJECT_DIR$/.idea/modules/white-case_test.iml" group="white-case" />
+    </modules>
+  </component>
+</project>
